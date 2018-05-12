@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1354
     wikipedia: http://en.wikipedia.org/wiki/Coventry_Patmore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27441#The-Children-s-Garland-from-the-Best-Poets
 gutenberg_issued: '2008-12-07'
 gutenberg_type: Text
 identifiers:
