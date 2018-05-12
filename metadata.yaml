@@ -1,0 +1,30 @@
+_repo: The-Children-s-Garland-from-the-Best-Poets_27441
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Patmore, Coventry
+    alias: Patmore, Coventry Kersey Dighton
+    birthdate: 1823
+    deathdate: 1896
+    gutenberg_agent_id: '1354'
+    url: http://www.gutenberg.org/2009/agents/1354
+    wikipedia: http://en.wikipedia.org/wiki/Coventry_Patmore
+description: ''
+gutenberg_issued: '2008-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Collections'
+- !lcsh 'Children''s poetry, English'
+- !lcc 'PN'
+- !lcc 'PZ'
+title: The Children's Garland from the Best Poets
+url: http://www.gutenberg.org/ebooks/27441
